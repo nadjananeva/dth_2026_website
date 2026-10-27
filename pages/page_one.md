@@ -1,13 +1,8 @@
-# Page one
+# Open source
 
-## This is the headline of your first page
+## The pros
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
-- one item
-- another item
+There are many reasons behind using open source tools. One of the major reasons many companies join are the financial benefits, such as reduced costs (Cemazar, 2024). To show how else open source is useful, here is a top 5: 
 
 ### A smaller headline
 
