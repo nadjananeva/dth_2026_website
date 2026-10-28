@@ -4,8 +4,8 @@
 
 <p> There are many reasons behind using open source tools. One of the major reasons many companies join are the financial benefits, such as reduced costs (Cemazar, 2024). To show how else open source is useful, here is a top 5: </p>
 
-<ol> <li>Transparency </li>
- There can be many people reviewing, leading to more mistakes being caught. For a user this mutual growth can be helpful and builds a trust between them and the provider (Muñoz, 2025).
+<ol> <li>Transparency
+ There can be many people reviewing, leading to more mistakes being caught. For a user this mutual growth can be helpful and builds a trust between them and the provider (Muñoz, 2025). </li>
 <li>another subject</li>
 jooo</ol>
 
