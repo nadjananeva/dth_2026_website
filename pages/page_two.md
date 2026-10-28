@@ -1,4 +1,4 @@
-# Open source part 2
+# Open source 
 
 ## The cons
 
