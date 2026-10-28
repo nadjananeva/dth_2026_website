@@ -14,7 +14,7 @@
 <p> I would trust Storybook because of its large community. This provision of regular updating builds a certain ethos and the opportunity which a MIT license gives with its lack of legal friction makes Storybook a very useful industry-standard tool. If the cases of wanting to leave similar options such as Figma and Canva, which designers especially also use, offer good quality free versions. </p> 
 
 
-<b> Reference List: <b>
+<b> Reference List: </b>
 
 <p>Olah, Z. (2020, August 17). Why Chroma’s getting behind Storybook. Chromatic. https://www.chromatic.com/blog/why-chromas-getting-behind-storybook/
 	retrieved the 28/10-2026</p>
