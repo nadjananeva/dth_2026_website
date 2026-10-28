@@ -31,4 +31,4 @@ retrieved 26/10-2026</p>
 
 
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+![Lets study open source together](./assets/images/digital.jpg)
