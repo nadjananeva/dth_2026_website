@@ -20,14 +20,14 @@ Open source creates a feeling of community and drives through collaboration inno
 
 ### Referencelist
 
-Achille, A. (2026, May 13). The Pros and Cons of Open-Source Software: A guide for developers and executives. BairesDev. https://www.bairesdev.com/blog/the-pros-and-cons-of-open-source-software-a-guide-for-developers-and-executives/
-retrieved 26/10-2026
-Cemazar, S. A. (2024, January 5). 10 biggest advantages of open-source software. Rocket.Chat. https://www.rocket.chat/blog/open-source-software-advantages
-retrieved 26/10-2026
-Mitton, L. (2024, April 4). Open Source vs. Closed Source Software. Splunk. https://www.splunk.com/en_us/blog/learn/open-vs-closed-source-software.html
-retrieved 26/10-2026
-Muñoz, B. (2025, May 28). What is open-source software: pros and cons. SMOWL Proctoring | Supervision system for online exams. https://smowl.net/en/blog/what-is-open-source-software/
-retrieved 26/10-2026
+<p>Achille, A. (2026, May 13). The Pros and Cons of Open-Source Software: A guide for developers and executives. BairesDev. https://www.bairesdev.com/blog/the-pros-and-cons-of-open-source-software-a-guide-for-developers-and-executives/
+retrieved 26/10-2026</p>
+<p>Cemazar, S. A. (2024, January 5). 10 biggest advantages of open-source software. Rocket.Chat. https://www.rocket.chat/blog/open-source-software-advantages
+retrieved 26/10-2026</p>
+<p>Mitton, L. (2024, April 4). Open Source vs. Closed Source Software. Splunk. https://www.splunk.com/en_us/blog/learn/open-vs-closed-source-software.html
+retrieved 26/10-2026</p>
+<p>Muñoz, B. (2025, May 28). What is open-source software: pros and cons. SMOWL Proctoring | Supervision system for online exams. https://smowl.net/en/blog/what-is-open-source-software/
+retrieved 26/10-2026</p>
 
 
 
