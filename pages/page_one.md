@@ -30,5 +30,3 @@ retrieved 26/10-2026</p>
 retrieved 26/10-2026</p>
 
 
-
-![Lets study open source together](./assets/images/digital.jpg)
