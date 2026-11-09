@@ -13,20 +13,18 @@
 
 <p> I would trust Storybook because of its large community. This provision of regular updating builds a certain ethos and the opportunity which a MIT license gives with its lack of legal friction makes Storybook a very useful industry-standard tool. If the cases of wanting to leave similar options such as Figma and Canva, which designers especially also use, offer good quality free versions. </p> 
 
-
-<b> Reference List: </b>
-
-<p>Olah, Z. (2020, August 17). Why Chroma’s getting behind Storybook. Chromatic. https://www.chromatic.com/blog/why-chromas-getting-behind-storybook/
-	retrieved the 28/10-2026</p>
-<p>Haines, T. (2018, November 26). Is Storybook being commercially hijacked? https://medium.com/protecting-storybooks-future/storybook-is-being-commercially-hijacked-463524825fbc 
-	retrieved the 28/10-2026</p>
-<p>npm: storybook. (n.d.). Npm. https://www.npmjs.com/package/storybook 
-	retrieved the 28/10-2026</p>
-<p>Storybook: Frontend workshop for UI development. (n.d.). Storybook. https://storybook.js.org/ 
-	retrieved the 28/10-2026</p>
-<p>Storybookjs/storybook: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation. (n.d.). https://github.com/storybookjs/storybook 
-	retrieved the 27/10-2026</p>
-<p>Storybook 11 Release Plan · storybookjs/storybook · Discussion #36230. (n.d.). GitHub. https://github.com/storybookjs/storybook/discussions/36230
-	retrieved the 28/10-2026</p>
-<p>Vantage. (n.d.). Vantage | The AI-native PM workspace. Vantage. https://www.vantageos.tech/vs/storybook-vs-chromatic
-	retrieved the 28/10-2026</p>
+## References
+Olah, Z. (2020, August 17). Why Chroma’s getting behind Storybook. Chromatic. https://www.chromatic.com/blog/why-chromas-getting-behind-storybook/
+	retrieved the 28/10-2026
+Haines, T. (2018, November 26). Is Storybook being commercially hijacked? https://medium.com/protecting-storybooks-future/storybook-is-being-commercially-hijacked-463524825fbc 
+	retrieved the 28/10-2026
+npm: storybook. (n.d.). Npm. https://www.npmjs.com/package/storybook 
+	retrieved the 28/10-2026
+Storybook: Frontend workshop for UI development. (n.d.). Storybook. https://storybook.js.org/ 
+	retrieved the 28/10-2026
+Storybookjs/storybook: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation. (n.d.). https://github.com/storybookjs/storybook 
+	retrieved the 27/10-2026
+Storybook 11 Release Plan · storybookjs/storybook · Discussion #36230. (n.d.). GitHub. https://github.com/storybookjs/storybook/discussions/36230
+	retrieved the 28/10-2026
+Vantage. (n.d.). Vantage | The AI-native PM workspace. Vantage. https://www.vantageos.tech/vs/storybook-vs-chromatic
+	retrieved the 28/10-2026
