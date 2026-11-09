@@ -17,7 +17,7 @@ Restrictive licenses can create intellectual property risk, and if a user handle
 In some cases there might a requirement for in-house expertise which can cause a demand for a greater internal engineering capability and software maintenance compared to vendor-supported technologies (Pratt, 2022)</li>
 </ol>
 
-## Refences
+## References
 Mayo, C. (2024, Marts 19) The risks of Open-Source software. https://www.doppler.com/blog/the-risks-of-open-source-software 
 retrieved 27/10-2026
 
